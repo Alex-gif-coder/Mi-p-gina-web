@@ -1,0 +1,12 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Página Web</title>
+</head>
+<body>
+    <h1>¡Bienvenido a mi página web!</h1>
+    <p>Esta es una página web de ejemplo creada por mí.</p>
+</body>
+</html>
